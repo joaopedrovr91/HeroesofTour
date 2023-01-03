@@ -17,27 +17,27 @@ input {
 }
 
 input:focus {
-  outline: #336699 auto 1px;
+  outline: #9333ea auto 1px;
 }
 
 li {
   list-style-type: none;
 }
 .search-result li a {
-  border-bottom: 1px solid gray;
-  border-left: 1px solid gray;
-  border-right: 1px solid gray;
+  border-bottom: 1px solid #fda4af;
+  border-left: 1px solid #fda4af;
+  border-right: 1px solid #fda4af;
   display: inline-block;
   width: 100%;
   max-width: 600px;
   padding: .5rem;
   box-sizing: border-box;
   text-decoration: none;
-  color: black;
+  color: #0f172a;
 }
 
 .search-result li a:hover {
-  background-color: #435A60;
+  background-color: #d946ef;
   color: white;
 }
 
